@@ -11,7 +11,7 @@ into depth, it covers the following topics:
 - Using volumes to persist data
 - Using bind mounts to support development
 - Using container networking to support multi-container applications
-- Using Docker Compose to simplify the definition and sharing of applications
+- Using Docker Compose to simplify the definition and sharing of applicationss
 - Using image layer caching to speed up builds and reduce push/pull size
 - Using multi-stage builds to separate build-time and runtime dependencies
 
