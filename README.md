@@ -24,6 +24,9 @@ docker run -d -p 80:80 docker/getting-started
 ```
 
 Once it has started, you can open your browser to [http://localhost](http://localhost).
+######for only docker not docker compose###################
+https://docs.docker.com/get-started/02_our_app/
+
 
 ## Development
 
